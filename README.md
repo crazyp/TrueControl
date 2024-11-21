@@ -1,4 +1,4 @@
-# TrueControl
+# TrueControl test build
 TrueNAS Scale management app for iOS & Android.
 
 <img src="https://github.com/Michael-128/TrueControl/assets/116978510/9057813c-148e-4654-abd4-2205ec2817ac" width="22.5%">
